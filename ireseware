@@ -21,7 +21,7 @@ getgenv().lenakidoesntlikeurskiddedassslock = {
         TraceClosestPart = true,
         UseTracerRadius = false,
         Radius = 150,
-        ShowFOV = false
+        ShowFOV = true
     },
     Resolver = {
         AutoResolve = false,  -- Keep These Settings, Very Recommended
