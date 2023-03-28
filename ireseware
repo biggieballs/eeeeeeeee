@@ -30,7 +30,7 @@ getgenv().lenakidoesntlikeurskiddedassslock = {
     },
 
     Extras = {
-        WallCheck = false,
+        WallCheck = true,
         UnlockedOnDeath = true,
     },
 }
